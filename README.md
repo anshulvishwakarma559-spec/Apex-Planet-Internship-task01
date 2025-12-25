@@ -7,6 +7,4 @@ In this task, I learned:
 - Cleaning and preparing data (Data Wrangling)
 - Importance of data quality in analysis
 
-Video Explanation Link:
-(Paste your LinkedIn video link here# Apex-Planet-Internship-task01
-Apex planet internship tasks
+https://www.linkedin.com/posts/anshul-vishwakarma-8a692b332_apex-planet-virtual-internship-task-activity-7409874843057344512-4fmt?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFPJfT4B5ASW_6OwDsSC4a9gHEnpZpJZzPM
